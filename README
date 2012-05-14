@@ -1,0 +1,4 @@
+This is a JavaScript implementation of unsupervised kmeans clustering.
+
+The purpose is to automatically cluster timbre vectors into an unknown number of instruments.
+
